@@ -123,7 +123,6 @@ The file `house_price_model.pkl` contains the trained machine learning model ser
 
 ## Project Structure
 
-```text
 Syntecxhub_House_Price_Prediction/
 │
 ├── AmesHousing.csv
@@ -133,3 +132,6 @@ Syntecxhub_House_Price_Prediction/
 
 ---
 
+## Author
+
+Dikshitha Reddy Vanga
